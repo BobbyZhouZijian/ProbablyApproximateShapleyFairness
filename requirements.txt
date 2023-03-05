@@ -1,0 +1,16 @@
+absl==0.0
+botorch==0.6.4
+fedjax==0.0.12
+gpytorch==1.6.0
+jax==0.3.13
+matplotlib==2.2.3
+numpy==1.21.6
+pandas==1.1.5
+scikit_learn==1.1.1
+scipy==1.7.3
+seaborn==0.11.2
+shap==0.40.0
+six==1.11.0
+torch==1.11.0
+torchtext==0.12.0
+torchvision==0.12.0
